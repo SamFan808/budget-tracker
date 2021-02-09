@@ -158,10 +158,10 @@ document.querySelector("#sub-btn").addEventListener("click", function (event) {
 });
 
 // given code, below
-// document.querySelector("#add-btn").onclick = function() {
-// sendTransaction(true);
+// document.querySelector("#add-btn").onclick = function () {
+//   sendTransaction(true);
 // };
 
-// document.querySelector("#sub-btn").onclick = function() {
+// document.querySelector("#sub-btn").onclick = function () {
 //   sendTransaction(false);
 // };
