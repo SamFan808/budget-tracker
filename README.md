@@ -36,6 +36,8 @@ Licensed under: MIT license
 
 ## Screenshots
 
+<img src= "./images/Screen_01_hw_18.png">
+
 ## Questions
 
 GitHub Repository:
