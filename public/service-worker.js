@@ -27,7 +27,7 @@ self.addEventListener("install", function (evt) {
   self.skipWaiting();
 });
 
-// activate this one needs revision
+// activate
 self.addEventListener("activate", function (evt) {
   evt.waitUntil(
     caches.keys().then((keyList) => {
