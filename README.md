@@ -30,7 +30,7 @@ https://shrouded-bayou-08519.herokuapp.com/
 
 ## Languages
 
-`Javascript, NodeJS, express, mongoose, html, css.`
+`Javascript, NodeJS, express, mongodb, mongoose, html, css.`
 
 ## License
 
